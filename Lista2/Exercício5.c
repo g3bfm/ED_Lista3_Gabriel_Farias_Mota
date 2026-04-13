@@ -1,6 +1,7 @@
 #include <stdio.h>
 
 int main(){
+    
     int A[10];
     int contador = 0;
 
