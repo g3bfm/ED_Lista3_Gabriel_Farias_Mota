@@ -1,6 +1,7 @@
 #include <stdio.h>
 
 int main(){
+    
     int A[8];
     int X, Y, soma;
 
